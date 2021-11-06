@@ -87,7 +87,7 @@ const PlusIcon = tw.img`
 `;
 
 const SavedPlaces = tw.div`
-    flex items-center bg-white px-4 py-2
+    flex items-center bg-white px-4 mt-2 py-2
 `;
 
 const StarIcon = tw.img`
@@ -95,5 +95,5 @@ const StarIcon = tw.img`
 `;
 
 const ConfirmLocation = tw.div`
-    bg-black text-white text-xl p-3 mx-8 my-3 flex justify-center items-center
+    bg-black text-white text-xl p-2 mx-8 my-3 flex justify-center items-center rounded-full
 `;

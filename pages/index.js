@@ -86,5 +86,5 @@ const ActionButtonImage = tw.img`
 `;
 
 const InputButton = tw.div`
-	h-20 bg-gray-200 text-xl p-4 flex items-center mt-8
+	h-15 bg-gray-200 text-xl p-4 flex items-center mt-8 mb-4
 `;
